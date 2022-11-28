@@ -30,3 +30,6 @@ Just run it on windows and configure as a network client with the IP address of 
 
 ## Operation mode
 
+Run One4All on the computer where the devices with the sensors are, configure One4All as a network server with the local IP address and a specific TCP port. Install Net2Serial on the computers you want to run the device operation software and configure it as a network client with the IP address of the server and the same TCP port.
+
+Run the "Virtual Serial Port Driver" on each network client and configure it with the number of serial port pairs needed, finally configure in Net2Serial each one of the serial ports that will be used as input and activate forwarding through from the LAN.
