@@ -4,7 +4,7 @@ Version 2.0
 
 #DOI
 
-https://doi.org/10.5281/zenodo.7374331
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7374331.svg)](https://doi.org/10.5281/zenodo.7374331)
 
 # Description
 
